@@ -1,0 +1,48 @@
+{
+  "Basics": {
+    "name": "Gobinath M",
+    "address": "NO.107, North Street, Ambagarathur, Karaikal - 609601",
+    "mobile.no": "9345178521",
+    "Email": "gobi3336@gmail@gmail.com"
+  },
+  "Objective": "Seeking a position to utilize my skills and abilities in your esteemed organization that offers a professional growth while being resourceful, innovative and flexible.",
+  "Educational qualification": {
+    "B.Teh": {
+      "college": "PKIET",
+      "university": "Pondicherry University",
+      "percentage": 71.52,
+      "year of passing": 2021
+    },
+    "H.S.C": {
+      "board": "stateboard",
+      "school": "Thiruvallivar Government Higher Secondary School, Ambagarathur",
+      "percentage": 68.75,
+      "year of passing": 2017
+    },
+    "S.S.L.C": {
+      "board": "stateboard",
+      "school": "Thanthai Periyar Government Higher Secondary School, Karaikal",
+      "percentage": 89.5,
+      "year of passing": 2015
+    },
+    "skill sets": {
+      "1": "Html  , Css , Javascript , Sql , Python.",
+      "2": "Thorough knowledge of computer applications."
+    },
+    "personal competencies": {
+      "1": "Positive attitude and hard working.",
+      "2": "Continues and quick learning , skills development and self-motivated.",
+      "3": "Punctual and discipline"
+    },
+    "Personal information": {
+      "Father name": "Mathiazhagan R",
+      "gender": "male",
+      "D.O.B": "26-03-2000",
+      "marital status": "Single",
+      "nationality": "Indian",
+      "religion": "Hindu",
+      "languages known": "Tamil & English"
+    },
+    "declaration": "I hereby declare that all the above furnished details are correct to the best of my knowledge and nothing has been concealed"
+  }
+}
